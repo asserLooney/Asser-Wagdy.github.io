@@ -6,9 +6,9 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Asser-Wagdy's Blog of Medicine-X-ML
+title: Asser Wagdy's Blog of Medicine-X-ML
 description : This is my blog, I'm a medical doctor right now i'm a general practionior (not yet specialized). I'm a machine learning and Python professional. 
-github_username: Asser-Wagdy
+github_username: asser-wagdy
 
 # Email and twitter are optional:
 email: Asser1313@gmail.com
@@ -21,16 +21,13 @@ use_math:
 google_analytics:
 
 
-theme: minimal-mistakes-jekyll
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-octicons
   - jekyll-github-metadata
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-archives
+
 
 
 titles_from_headings:
